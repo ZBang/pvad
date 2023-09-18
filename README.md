@@ -1,6 +1,6 @@
-<span style="font-family: '黑体'">The download link for the simulation test set is here:</span> https://drive.google.com/drive/folders/146SnMqWmmRXjGWALAYxMEHmwNi-do_qi?usp=sharing, https://drive.google.com/file/d/1c02Afld2FY1JbZu6KO9GUzUsiLlWqsCo/view?usp=sharing
+The download link for the simulation test set is here: https://drive.google.com/drive/folders/146SnMqWmmRXjGWALAYxMEHmwNi-do_qi?usp=sharing, https://drive.google.com/file/d/1c02Afld2FY1JbZu6KO9GUzUsiLlWqsCo/view?usp=sharing
 
-<span style="font-family: '黑体'">Folder/Directory:</span>
+Folder/Directory:
 |-----test
 |        |-----mix                 # 2-speaker mixed speeches.
 |        |-----mix_noise           # 2-speaker+noise mixed speeches.
